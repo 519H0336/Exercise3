@@ -1,0 +1,15 @@
+E:\519H0336\Lab 10\Ex3\cnpm-lab10-ex3-main\UnitTestConsole\bin\Debug\net6.0\UnitTestConsole.exe
+E:\519H0336\Lab 10\Ex3\cnpm-lab10-ex3-main\UnitTestConsole\bin\Debug\net6.0\UnitTestConsole.deps.json
+E:\519H0336\Lab 10\Ex3\cnpm-lab10-ex3-main\UnitTestConsole\bin\Debug\net6.0\UnitTestConsole.runtimeconfig.json
+E:\519H0336\Lab 10\Ex3\cnpm-lab10-ex3-main\UnitTestConsole\bin\Debug\net6.0\UnitTestConsole.dll
+E:\519H0336\Lab 10\Ex3\cnpm-lab10-ex3-main\UnitTestConsole\bin\Debug\net6.0\UnitTestConsole.pdb
+E:\519H0336\Lab 10\Ex3\cnpm-lab10-ex3-main\UnitTestConsole\obj\Debug\net6.0\UnitTestConsole.csproj.AssemblyReference.cache
+E:\519H0336\Lab 10\Ex3\cnpm-lab10-ex3-main\UnitTestConsole\obj\Debug\net6.0\UnitTestConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\519H0336\Lab 10\Ex3\cnpm-lab10-ex3-main\UnitTestConsole\obj\Debug\net6.0\UnitTestConsole.AssemblyInfoInputs.cache
+E:\519H0336\Lab 10\Ex3\cnpm-lab10-ex3-main\UnitTestConsole\obj\Debug\net6.0\UnitTestConsole.AssemblyInfo.cs
+E:\519H0336\Lab 10\Ex3\cnpm-lab10-ex3-main\UnitTestConsole\obj\Debug\net6.0\UnitTestConsole.csproj.CoreCompileInputs.cache
+E:\519H0336\Lab 10\Ex3\cnpm-lab10-ex3-main\UnitTestConsole\obj\Debug\net6.0\UnitTestConsole.dll
+E:\519H0336\Lab 10\Ex3\cnpm-lab10-ex3-main\UnitTestConsole\obj\Debug\net6.0\refint\UnitTestConsole.dll
+E:\519H0336\Lab 10\Ex3\cnpm-lab10-ex3-main\UnitTestConsole\obj\Debug\net6.0\UnitTestConsole.pdb
+E:\519H0336\Lab 10\Ex3\cnpm-lab10-ex3-main\UnitTestConsole\obj\Debug\net6.0\UnitTestConsole.genruntimeconfig.cache
+E:\519H0336\Lab 10\Ex3\cnpm-lab10-ex3-main\UnitTestConsole\obj\Debug\net6.0\ref\UnitTestConsole.dll
